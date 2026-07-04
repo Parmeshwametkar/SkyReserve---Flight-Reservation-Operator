@@ -1,0 +1,6 @@
+{
+  "name": "SkyReserve - Flight Reservation Operator",
+  "description": "Premium enterprise-grade Flight Reservation Operator web application with a Passenger Portal, Airline Operator Dashboard, Admin Portal, and server-side AI flight intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
